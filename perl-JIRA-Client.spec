@@ -7,12 +7,12 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	JIRA::Client - An extended interface to JIRA's SOAP API
 Name:		perl-JIRA-Client
-Version:	0.26
+Version:	0.32
 Release:	1
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/G/GN/GNUSTAVO/modules/JIRA-Client-%{version}.tar.gz
-# Source0-md5:	d44da752a7baeac1fdf43731ee6735d2
+# Source0-md5:	831de48dcd0f4d51a19f0ab2d34e25d1
 URL:		http://search.cpan.org/dist/JIRA-Client/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
