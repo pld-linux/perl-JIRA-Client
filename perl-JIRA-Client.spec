@@ -4,7 +4,6 @@
 
 %define		pdir	JIRA
 %define		pnam	Client
-%include	/usr/lib/rpm/macros.perl
 Summary:	JIRA::Client - An extended interface to JIRA's SOAP API
 Name:		perl-JIRA-Client
 Version:	0.32
